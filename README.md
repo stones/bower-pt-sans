@@ -1,10 +1,13 @@
 # PT Sans Webfont Kit
 
-Webfont kit for [PT Sans](http://www.fontsquirrel.com/fonts/PT-Sans).
+Webfont kit for [PT Sans](http://www.paratype.com/public/).
 
-Each typeface is split into a separate Less partial, so it's easy to choose the typefaces you need and leave the rest out.
+PT Sans is based on Russian sans serif types of the second part of the XX century, but at the same time has a very distinctive features of modern humanistic design.
+The family consists of 8 styles:
 
-Compiled and minified CSS is also available.
+- 4 basic styles;
+- 2 captions styles for small sizes
+- 2 narrows styles for economic setting.
 
 Installable via [Bower](http://bower.io):
 
